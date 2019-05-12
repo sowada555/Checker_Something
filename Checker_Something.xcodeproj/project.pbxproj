@@ -13,6 +13,7 @@
 		43358E092287AE7D00BF84D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43358E082287AE7D00BF84D0 /* Assets.xcassets */; };
 		43358E0C2287AE7D00BF84D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43358E0A2287AE7D00BF84D0 /* LaunchScreen.storyboard */; };
 		43358E142287B08100BF84D0 /* Addtext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43358E132287B08100BF84D0 /* Addtext.swift */; };
+		43358E1E2287D05B00BF84D0 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43358E1D2287D05B00BF84D0 /* CustomCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		43358E0B2287AE7D00BF84D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		43358E0D2287AE7D00BF84D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43358E132287B08100BF84D0 /* Addtext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Addtext.swift; sourceTree = "<group>"; };
+		43358E1D2287D05B00BF84D0 /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				43358E012287AE7D00BF84D0 /* AppDelegate.swift */,
 				43358E032287AE7D00BF84D0 /* ViewController.swift */,
 				43358E052287AE7D00BF84D0 /* Main.storyboard */,
+				43358E1D2287D05B00BF84D0 /* CustomCell.swift */,
 				43358E132287B08100BF84D0 /* Addtext.swift */,
 				43358E082287AE7D00BF84D0 /* Assets.xcassets */,
 				43358E0A2287AE7D00BF84D0 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				43358E042287AE7D00BF84D0 /* ViewController.swift in Sources */,
 				43358E142287B08100BF84D0 /* Addtext.swift in Sources */,
+				43358E1E2287D05B00BF84D0 /* CustomCell.swift in Sources */,
 				43358E022287AE7D00BF84D0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
